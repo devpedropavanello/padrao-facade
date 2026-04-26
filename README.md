@@ -1,6 +1,11 @@
 ﻿# padrao-facade
 
-Implementacao isolada do padrao facade extraida do projeto original Padroes-de-Projetos.
+Implementacao em Java do padrao Facade.
+
+## Estrutura
+
+- `src/main/java`: implementacao do padrao
+- `src/test/java`: testes automatizados
 
 ## Como executar os testes
 
